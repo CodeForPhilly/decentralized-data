@@ -1,8 +1,8 @@
 ---
 layout: activity
 title: Activity Template
-category: course-template
-module: learning-module-template
+category: tutorial-template
+module: lesson-template
 tags: templates
 ---
 

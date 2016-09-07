@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Lesson Template
-category: course-template
+category: tutorial-template
 tags: templates
 ---
 
@@ -11,7 +11,7 @@ _Here's where you provide the conceptual framework for the material covered in t
 
 ## Learning Objectives
 
-_Here's where you list the specific learning objectives for this lesson. See the Learning Objectives Section in the [Course Template](../..) for more info on defining learning objectives._
+_Here's where you list the specific learning objectives for this lesson. See the Learning Objectives Section in the [Tutorial Template](../..) for more info on defining learning objectives._
 
 ## Activities
 

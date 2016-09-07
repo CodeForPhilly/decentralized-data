@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Lesson Template
-category: course-template
+category: tutorial-template
 tags: templates
 ---
 
@@ -9,7 +9,7 @@ A simple lesson structure uses **Goals**, **Steps**, and an **Explanation**.
 
 ## Goals (Learning Objectives)
 
-_Here's where you list the specific learning objectives for this lesson. See the Learning Objectives Section in the [Course Template](../..) for more info on defining learning objectives._
+_Here's where you list the specific learning objectives for this lesson. See the Learning Objectives Section in the [Tutorial Template](../..) for more info on defining learning objectives._
 
 ## Steps
 ### Step 1: Add the file to IPFS
