@@ -1,52 +1,25 @@
 ---
 layout: default
-title: Home
+title: Decentralized Data Workshops - Home
 ---
-# Permissionless Curriculum Design
 
-## Create a Curriculum with Git, Jekyll and Github Pages
+# Decentralized Data Workshops
 
-Use this template to create a web-based curriculum that can be hosted on Github Pages or any jekyll server.
+These Workshops provide a practical introduction to distributed version control, distributed data systems, their use, and the underlying technologies that make them possible. Our goal is to provide a path for everyday developers to understand enough about distributed systems that they can write an [IPFS](http://ipfs.io) adapter for [noms](https://github.com/attic-labs/noms), as was suggested in [this issue](https://github.com/attic-labs/noms/issues/2123) in the noms issue tracker.
 
-There's no database-just markdown files and a couple HTML templates. That's all. Everything is in a github repository, so people can fork the curriculum, add Courses, Modules and Activities, and then submit pull requests or host their own copies of the Curriculum.
+## The Workshops
 
-## About
+We will be conducting 10 Weeks of workshops
 
-For more information about this template, how you can use it, who maintains it, and how you can contribute, go to the project's [page on github](https://github.com/flyingzumwalt/jekyll-curriculum-template).
+1. Week 1: Introduction: Project overview, roadmap, and technical fundamentals
+2. Week 2: [Get Started with Golang](tutorials/get-started-with-golang)
+3. Version Control Week I: Git hands-on & light theory
+4. Version Control Week II: Noms hands-on
+5. Version Control Week III: Panel discussion — what do our users want to do with their data?  How could Noms (and Noms+IPFS) help?
+6. Version Control Week IV: deeper theory / data model
+7. IPFS: hands-on & theory
 
-## Usage
 
-To create your own curriculum using this template, download the contents of the git repository and add your own content into the "curriculum" directory.  That's all!
-
-### How to structure courses in the curriculum
-
-Read the [Template Curriculum](curriculum-template) for info about how to structure your courses, modules, and activities.
-
-### Hosting your curriculum on Github Pages
-
-It's easy to host your curriculum on Github pages. Github's help pages about [Using Jekyll as a static site generator with GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) should provide the info you need to get going.
-
-### Applying Styles and templates
-
-There are lots of Jekyll Themes out there that you can apply to your curriculum.  This template is set up to work with the [pool/hyde](https://github.com/poole/hyde) theme, but using it with another theme is relatively easy.
-
-If you already have your curriculum in a git repository, you can apply your content on top of a template like this (assuming your curriculum content is in the master branch). _Note: you will probably have to resolve some merge conflicts when you run `git merge master`_
-
-```
-git remote add hyde git@github.com:poole/hyde.git
-git fetch hyde
-git checkout -b gh-pages hyde/master
-git merge master  
-git commit -m"apply curriculum content on top of hyde"
-```
-
-### Serve your Curriculum anywhere with Jekyll
-
-In the root of your curriculum content, run
-
-```
-bundle install
-bundle exec jekyll serve
-```
-
-See the [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) for more info and troubleshooting.
+The IPFS workshop would be the final “pre-development” workshop.  We’ve planned for 8 weeks for these workshops (10/4–11/22) to allow a little flex.  The following workshops will be our “transition to development” phase, during which participants will need to decide whether they’ll participate in the sprints going forward.
+8. Testing / TDD — as a group, brainstorm test cases for the Noms connector
+9. Development Process / Methodology

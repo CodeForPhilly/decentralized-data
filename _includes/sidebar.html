@@ -11,8 +11,7 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-      <a class="sidebar-nav-item {% if site.baseurl + "/curriculum-template/" %} active{% endif %}" href="{{ site.baseurl }}/curriculum-template/">Curriculum Overview</a>
-
+      
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: course` in the front-matter. See readme for usage.
