@@ -1,6 +1,10 @@
 # Decentralized Data Workshops
 
-## Development
+This git repository contains Workshop material on distributed version control and distributed data systems. The workshops were created as part of the [Dat Jawn](http://datjawn.com) project at [Code for Philly](http://codeforphilly.org) in autumn 2016. 
+
+For more info about the workshops, and to see the rendered content of this repository, go to https://cfabrigadephiladelphia.github.io/decentralized-data/ or read [index.md](./index.md)
+
+## Information for Contributors and Maintainers of these Tutorials
 
 The Curriculum Template has two branches, but only one is used for active development.
 
