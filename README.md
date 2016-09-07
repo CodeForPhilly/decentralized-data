@@ -45,11 +45,14 @@ bundle exec jekyll serve
 
 See the [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) for more info and troubleshooting.
 
-## Author
+## Authors
 
 **Matt Zumwalt**
 - <https://github.com/flyingzumwalt>
 - <https://twitter.com/flyingzumwalt>
+
+**Jadrian Miles**
+- <https://github.com/jadrian>
 
 
 ## License
