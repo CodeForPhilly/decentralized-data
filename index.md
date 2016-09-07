@@ -20,7 +20,7 @@ To create your own curriculum using this template, download the contents of the 
 
 ### How to structure courses in the curriculum
 
-Read the [Template Curriculum](curriculum) for info about how to structure your courses, modules, and activities.
+Read the [Template Curriculum](curriculum-template) for info about how to structure your courses, modules, and activities.
 
 ### Hosting your curriculum on Github Pages
 
