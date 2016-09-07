@@ -1,26 +1,24 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Decentralized Data Workshops
+tagline:          'Level up with Distributed Systems'
+description:      'Workshop material on distributed version control and distributed data systems. Created as part of the Dat Jawn project at Code for Philly'
+url:              http://CfABrigadePhiladelphia.github.io/decentralized-data/
+baseurl:          /decentralized-data
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+  name:           'Matt Zumwalt'
+  url:            https://twitter.com/flyingzumwalt
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
+gems:             [jekyll-paginate, jekyll-gist]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/CfABrigadePhiladelphia/decentralized-data
