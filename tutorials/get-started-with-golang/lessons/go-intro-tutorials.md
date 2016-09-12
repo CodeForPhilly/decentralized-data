@@ -12,5 +12,13 @@ tags:
 * Take the Go tour at https://tour.golang.org
 * Explore the Reference Doc at https://golang.org/doc/effective_go.html
 * golang.org Codewalk on [Writing Web Applications](https://golang.org/doc/articles/wiki/)
+* 
+
+## Bonus
+
+Other Tutorials
+
+* Lots of Tutorials listed at https://golang.org/doc/
+* http://www.golangbootcamp.com/book/intro
 
 ## Explanation
