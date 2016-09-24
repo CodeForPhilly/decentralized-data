@@ -6,11 +6,7 @@ For more info about the workshops, and to see the rendered content of this repos
 
 ## Information for Contributors and Maintainers of these Tutorials
 
-The Curriculum Template has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes the [pool/hyde](https://github.com/poole/hyde) jekyll template. **Please avoid using this branch.**
-
+Our tutorials use only one branch, `gh-pages`, for both development and hosting.  This includes all our own custom content as well as the [pool/hyde](https://github.com/poole/hyde) jekyll template.  **Submit all pull requests, etc. against the `gh-pages` branch.**  We do not use a `master` branch.
 
 ## How to structure tutorials in the curriculum
 
