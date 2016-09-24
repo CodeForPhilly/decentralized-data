@@ -41,8 +41,9 @@ $ cd foo
 
 ## Links
 
-* Go tour: https://tour.golang.org
-* Go reference: https://golang.org/doc/effective_go.html
-* Lots of additional tutorials: https://golang.org/doc and https://github.com/golang/go/wiki/Learn
-* http://www.golangbootcamp.com/book/intro
+* [The official Go tour](https://tour.golang.org)
+* [The "Effective Go" language reference](https://golang.org/doc/effective_go.html)
+* [More official tutorials and resources at golang.org](https://golang.org/doc)
+* [Community-created resources on the Go wiki](https://github.com/golang/go/wiki/Learn)
+* [Another large, standalone intro to Go](http://www.golangbootcamp.com/book/intro)
 
