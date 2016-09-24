@@ -21,7 +21,7 @@ We will be conducting 10 Weeks of workshops:
 
 The IPFS workshop would be the final “pre-development” workshop.  We’ve planned for 8 weeks for these workshops (10/4–11/22) to allow a little flex.  The following workshops will be our “transition to development” phase, during which participants will need to decide whether they’ll participate in the sprints going forward.
 
-8. Testing / TDD — as a group, brainstorm test cases for the Noms connector
+8. Testing / TDD: as a group, brainstorm test cases for the Noms connector
 9. Development Process / Methodology
 
 After this, we'll do eight weeks of development sprints, during which we'll design, build, test, and deploy our Noms–IPFS connector.
