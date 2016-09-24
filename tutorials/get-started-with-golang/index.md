@@ -3,12 +3,6 @@ layout: tutorial
 title: Get Started with Golang
 ---
 
-## Overview
-
-_Here's where you provide an overview of the tutorial's subject matter_
-
-## Prerequisites
-
 ## Learning Objectives
 
 After this tutorial you will know how to
@@ -18,21 +12,11 @@ After this tutorial you will know how to
 * Write basic applications in Go
 * Find Documentation and Reference Materials for using Go
 
-## Key Concepts
+## Prerequisites
 
-_Here's where you list key concepts for the tutorial._
-
-* TODO
-
-## Conceptual Framework
-
-_Here's where you provide the conceptual framework for the material covered in this tutorial._
+The only prerequisite for this workshop is some previous coding experience.
 
 ## Lessons
 
 1. **[Install Golang](lessons/install-go-lang)**
 2. **[Go Introductory Tutorials](lessons/go-intro-tutorials)**
-
-## Next Steps
-
-_Here's where you provide hints of what someone could learn next._
