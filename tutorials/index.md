@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops
+title: About these Workshops
 ---
 TODO
 
