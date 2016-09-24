@@ -21,7 +21,7 @@ Your objective by the end of this lesson is to complete the following five tasks
     
     A command-line argument is a string written after the name of a program when you run it from the command line.  For example, the following command is how you change from your current directory into the directory `foo` on the command line:
     
-    ```shell
+    ```
 $ cd foo
 ```
     
