@@ -18,24 +18,24 @@ Your objective by the end of this lesson is to complete the following five tasks
 1. **Write a "Hello, World" program.**  Write a program that you run from the command line whose only behavior is to print out `Hello, World` and then exit.  Call your source-code file `hello.go` so that the resulting program file is called `hello`.
 
 2. **Write a word-count program.**  Write a program that takes a filename as a command-line argument and prints out the number of characters, words, and lines in the file.
-  
-  A command-line argument is a string written after the name of a program when you run it from the command line.  For example, the following command is how you change from your current directory into the directory `foo` on the command line:
-  ```shell
+    
+    A command-line argument is a string written after the name of a program when you run it from the command line.  For example, the following command is how you change from your current directory into the directory `foo` on the command line:
+    ```shell
 $ cd foo
 ```
-  In this case, `foo` is a command-line argument.
-  
-  Go, like most other programming languages, has a way for you to get the values of any command-line arguments within the logic of your program.  You'll have to look around a little to figure out how to do that.
+    In this case, `foo` is a command-line argument.
+    
+    Go, like most other programming languages, has a way for you to get the values of any command-line arguments within the logic of your program.  You'll have to look around a little to figure out how to do that.
 
 3. **Write a typing-speed program.**  Write a program that prints out a block of text, then waits for the user to type that text back in.  Once the user hits the Enter key, your program should compute their typing accuracy and report the number of words per minute that they typed.
-  
-  Once you've got that functionality working, upgrade your program so that it runs in a loop: after each typing test, prompt the user to either continue or quit.  Give them another, harder test if they ask to continue.
+    
+    Once you've got that functionality working, upgrade your program so that it runs in a loop: after each typing test, prompt the user to either continue or quit.  Give them another, harder test if they ask to continue.
 
 4. **Write a web application.**  Follow the instructions on the [golang.org Writing Web Applications tutorial](https://golang.org/doc/articles/wiki/).
 
 5. **Write a program of your own.**  Think of a small program that you'd like to write, and write it!  The emphasis here is on *small*; it's better to choose something simple and acheivable than to bite off more than you can chew.
-  
-  You could write a game with a text-based interface and a turn-based mechanic (like tic-tac-toe or mastermind), a web-based chat bot, a web scraper, a small database application, a simple blog engine, etc.  We recommend against trying to write things with graphics, animation, or real-time feedback, as these can get complicated fast.
+    
+    You could write a game with a text-based interface and a turn-based mechanic (like tic-tac-toe or mastermind), a web-based chat bot, a web scraper, a small database application, a simple blog engine, etc.  We recommend against trying to write things with graphics, animation, or real-time feedback, as these can get complicated fast.
 
 ## Links
 
