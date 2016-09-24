@@ -19,10 +19,12 @@ Your objective by the end of this lesson is to complete the following five tasks
 
 2. **Write a word-count program.**  Write a program that takes a filename as a command-line argument and prints out the number of characters, words, and lines in the file.
     
-    A command-line argument is a string written after the name of a program when you run it from the command line.  For example, the following command is how you change from your current directory into the directory `foo` on the command line:  
+    A command-line argument is a string written after the name of a program when you run it from the command line.  For example, the following command is how you change from your current directory into the directory `foo` on the command line:
+    
     ```shell
 $ cd foo
-```  
+```
+    
     In this case, `foo` is a command-line argument.
     
     Go, like most other programming languages, has a way for you to get the values of any command-line arguments within the logic of your program.  You'll have to look around a little to figure out how to do that.
