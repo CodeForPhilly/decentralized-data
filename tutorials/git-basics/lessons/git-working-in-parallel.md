@@ -7,8 +7,7 @@ tags:
 
 ## Goals (Learning Objectives)
 
-This lesson reviews the things you learned in the [Github Workflow](lessons/github-workflow)
-and [Git Command Line Interface](lessons/git-cli) lessons and applies them to a situation where two people are making changes to files in the same git repository.
+This lesson reviews the things you learned in the [Github Workflow](lessons/github-workflow) lesson and applies them to a situation where two people are making changes to files in the same git repository.
 
 After doing this tutorial you will know how to
 
@@ -22,23 +21,25 @@ After doing this tutorial you will know how to
 
 This Lesson is designed to be done in pairs so that you can see what happens when two people work on the same git repository at the same time.  Find a partner to work with. You don't have to be in the same place -- for example you could coordinate your work with a friend over IRC or Slack.
 
+In these instructions, we will call the two partners **Alex** and **Jamie**; decide which one of you will play each role.
+
 ### Step 2: Submit and Review a Pull Request
 
-This step is a review of the activities from the [Github Workflow](lessons/github-workflow)
-and [Git Command Line Interface](lessons/git-cli) tutorials.
-
-1. **Partner 1**: fork a repository owned by Partner 2
-2. **Partner 1**: make some changes to a file in the repository you forked
-3. **Partner 2**: make changes in a different file within the repository
-4. **Partner 2**: commit your changes and push them to the repository on github
-3. **Partner 1**: push your changes to github and create a pull request with those changes
-4. **Partner 2**: merge the Pull Request
+1. **Alex**: Go to the Github page for a repository owned by Jamie.  In the upper-right corner, click the "Fork" button.  This will create a duplicate copy of Jamie's repository that you (Alex) now own.
+2. **Alex**: Make some changes to a file in your forked repository, and then commit your changes.
+3. **Jamie**: Make changes in a _different file_ within your own repository, and then commit your changes.
+3. **Alex**: Create a pull request with your committed changes.
+4. **Jamie**: Write a comment on the pull request, and then merge the pull request.
 
 ### Step 3: Cause a Merge Conflict and Resolve it
 
-1. **Partner 2**: fork a repository owned by Partner 1
-2. **Both Partners**: make _different_ changes on the _same line_ of a file in the repository
-3. **Both Partners**: commit your changes and push them to github
-4. **Partner 2**: create a pull request with your changes
-5. **Both Partners**: work together to resolve the merge conflict in the Pull Request
-6. **Partner 1**: merge the pull request
+1. **Jamie**: Fork a repository owned by Alex.
+2. **Jamie**: Pick a line in an existing file in this forked repository, and make some changes to that line.  Commit your changes.
+3. **Alex**: Make some _different_ changes on the _same line_ of the chosen file, but in your repository.  Commit your changes.
+4. **Jamie**: Create a pull request with your committed changes.
+5. **Both Partners**: Work together (through comments on the pull request, through Slack, or by talking in person) to resolve the merge conflict in the pull request.
+6. **Alex**: Merge the pull request.
+
+## Next Steps
+
+Next, learn how to use the [Git Command Line Interface](../git-cli).
