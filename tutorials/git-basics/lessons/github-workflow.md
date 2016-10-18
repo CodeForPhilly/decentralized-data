@@ -15,8 +15,8 @@ After doing this tutorial you will know how to
 
 ## Activities
 
-* Follow the [Github Workflow Tutorial](https://learn.wheelhouse.io/events/workflow) on wheelhouse.io
+* Follow the [Github Workflow Tutorial](https://learn.wheelhouse.io/events/workflow) on wheelhouse.io.
 
 ## Next Steps
 
-Next, learn how to use the [Git Command Line Interface](../git-cli)
+Next, learn how to use the [Git Command Line Interface](../git-cli).
