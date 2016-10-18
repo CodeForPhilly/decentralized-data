@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Github Workflow
-category: git-hands-on
+category: git-basics
 tags:
 ---
 

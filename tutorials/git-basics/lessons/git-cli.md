@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Git Command Line Interface
-category: git-hands-on
+category: git-basics
 tags:
 ---
 

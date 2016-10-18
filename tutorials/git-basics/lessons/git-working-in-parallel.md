@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Using Git to Work in Parallel
-category: git-hands-on
+category: git-basics
 tags:
 ---
 
