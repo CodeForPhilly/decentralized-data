@@ -5,12 +5,12 @@ title: Git Basics
 
 ## Overview
 
-This tutorial introduces Github Workflow and using Git locally on the command line
+This tutorial introduces Github Workflow and using Git locally on the command line.
 
 ## Prerequisites
 
 * Install git on your machine
-* Create a github account
+* Create a [github](https://github.com) account
 
 ## Learning Objectives
 
@@ -40,5 +40,5 @@ _Jadrian and Matt have come up with a little excersize to explain why we use git
 ## Lessons
 
 1. **[Github Workflow](lessons/github-workflow)**
-2. **[Git Command Line Interface](lessons/git-cli)**
-3. **[Using Git to Work in Parallel](lessons/git-working-in-parallel)**
+2. **[Using Git to Work in Parallel](lessons/git-working-in-parallel)**
+3. **[Git Command Line Interface](lessons/git-cli)**
