@@ -19,4 +19,4 @@ After doing this tutorial you will know how to
 
 ## Next Steps
 
-Next, learn how to use the [Git Command Line Interface](../git-cli).
+Next, learn how multiple people can [work simultaneously using Git](../git-working-in-parallel).
