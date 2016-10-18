@@ -35,7 +35,7 @@ After this tutorial you will know how to
 
 These two lessons will walk you through using git and Github to track files as they change over time. If you understand _why_ we use git to track files and understand a couple key concepts such as Commits, Branches, and Pull Requests.
 
-_Jadrian and Matt have come up with a little excersize to explain why we use git and how it allows people to work in parallel on the same software. In the future we might make a video of it and post the video here._
+_Jadrian and Matt have come up with a little exercise to explain why we use git and how it allows people to work in parallel on the same software. In the future we might make a video of it and post the video here._
 
 ## Lessons
 
