@@ -40,6 +40,15 @@ In these instructions, we will call the two partners **Alex** and **Jamie**; dec
 5. **Both Partners**: Work together (through comments on the pull request, through Slack, or by talking in person) to resolve the merge conflict in the pull request.
 6. **Alex**: Merge the pull request.
 
+## Review
+
+Notice that each partner only ever made changes in their own repository.  Anyone can fork anybody else's repository on Github, resulting in a new forked copy that they own.  This way, everyone's free to make the changes they want without disrupting anyone else's work.
+
+Take a minute with your partner to contemplate the similarities and differences between branches and forks.
+* Can multiple branches exist in a repository that is a fork of some other repository?
+* Can a pull request be made from _any_ branch of _any_ repository to _any other_ branch of the repository from which it was forked?
+* You've already seen pictures of the relationships between multiple branches in a single repository (including the commits made within those branches); how could you draw a picture of multiple repositories related by forking?
+
 ## Next Steps
 
 Next, learn how to use the [Git Command Line Interface](../git-cli).
