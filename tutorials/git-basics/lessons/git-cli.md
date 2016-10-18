@@ -18,8 +18,4 @@ After doing this tutorial you will know how to
 
 ## Activities
 
-* Follow the [Patchwork Intro to Git on the CLI](https://learn.wheelhouse.io/events/git-cli) on wheelhouse.io
-
-## Next Steps
-
-Next, learning about [Using Git to Work in Parallel](../git-working-in-parallel)
+* Follow the [Patchwork Intro to Git on the CLI](https://learn.wheelhouse.io/events/git-cli) on wheelhouse.io.
