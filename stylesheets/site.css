@@ -5,3 +5,7 @@
     font-size: 1.0rem;
     font-weight: 300;
 }
+pre {
+    white-space: pre;
+    overflow-x: scroll;
+}
