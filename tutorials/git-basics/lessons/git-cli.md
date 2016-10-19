@@ -19,3 +19,7 @@ After doing this tutorial you will know how to
 ## Activities
 
 * Follow the [Patchwork Intro to Git on the CLI](https://learn.wheelhouse.io/events/git-cli) on wheelhouse.io.
+
+## Next Steps
+
+Next, learn how multiple people can [work simultaneously using Git](../git-working-in-parallel).

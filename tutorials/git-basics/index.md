@@ -40,5 +40,5 @@ _Jadrian and Matt have come up with a little exercise to explain why we use git 
 ## Lessons
 
 1. **[Github Workflow](lessons/github-workflow)**
-2. **[Using Git to Work in Parallel](lessons/git-working-in-parallel)**
-3. **[Git Command Line Interface](lessons/git-cli)**
+2. **[Git Command Line Interface](lessons/git-cli)**
+3. **[Using Git to Work in Parallel](lessons/git-working-in-parallel)**
