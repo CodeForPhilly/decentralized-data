@@ -38,7 +38,8 @@ Now check out that branch by running
 
 Add planets.md to git and commit it to the current branch by running
 
-`git commit -m"planets.md before merge conflict"`
+`$ git add .`  
+`$ git commit -m"planets.md before merge conflict"`
 
 Now look at the difference between the `master` branch and the `planets-before-merge-conflict` branch by running
 
