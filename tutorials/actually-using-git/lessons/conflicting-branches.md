@@ -5,7 +5,15 @@ category: actually-using-git
 tags:
 ---
 
-This recreates the example described in the Github help page about [Resolving a Merge Conflict on the Command Line](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)  
+This recreates the example described in the Github help page about [Resolving a Merge Conflict on the Command Line](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/).  You will create a git branch to represent each step in this process:
+
+1. Create a file called planets.md
+2. Make conflicting edits to the file on two different branches
+3. Merge the changes on a fake "master" branches
+
+You will then merge those changes to the real master branch.  
+
+We use these branches to explore some of the most useful features of git.
 
 ## Step: Create a new File
 

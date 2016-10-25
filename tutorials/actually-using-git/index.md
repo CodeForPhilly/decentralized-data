@@ -1,10 +1,11 @@
 ---
 layout: tutorial
-title: Pull Requests, Branching and Code Reviews with Git and Github
+title: Actually Using Git to Track Changes
 ---
 
+This workshop delves into some of the key concepts you need to understand in order to fully use git. 
+
 ## Learning Objectives
-Actually Using Git - Understanding Pull Requests, Branching, Merging and Code Reviews with Git and Github
 
 After this workshop you will know how to
 
@@ -16,7 +17,7 @@ After this workshop you will know how to
 * Rename and delete git branches
 * Check out a specific git commit
 
-Bonus Objectives:
+**Bonus Objectives:**
 
 If you do the bonus lessons, you will learn how to
 
