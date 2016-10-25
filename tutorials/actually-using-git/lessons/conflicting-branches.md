@@ -24,6 +24,8 @@ the number of planets are
 
 ```
 
+Commit this file, which will create a master branch.  You can't create any new branches until you've done this.
+
 ## Step: Add the file to a new branch
 
 Create a new git branch called `planets-before-merge-conflict` by running
