@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: Code Reviews
+title: Actually Using Git - Understanding Pull Requests, Branching and Code Reviews with Git and Github
 ---
 
 ## Learning Objectives
