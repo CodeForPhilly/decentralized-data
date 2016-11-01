@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Install Noms
+title: Noms Command Line Tour
 category: noms
 tags:
 ---
@@ -38,4 +38,4 @@ warning: "github.com/attic-labs/noms/sample/go/csv/..." matched no packages
 ```
 
 ## Next Steps
-When you're done with the command line tour, go back to the [Intro to Noms workshop](../) and follow the link to the noms golang API tour.
+When you're done with the command line tour, go back to the [Intro to Noms workshop](../../) and follow the link to _Tour the Noms Golang API_.
