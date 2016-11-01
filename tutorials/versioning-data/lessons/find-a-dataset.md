@@ -14,9 +14,13 @@ After doing this tutorial you will know how to
 ## Activities
 
 ### Step: Find a Dataset on Github
-Find a dataset on github that contains CSV files. There's a very big list of datasets here: [https://github.com/datasets/](https://github.com/datasets/)
+Find a dataset on github that contains **CSV files**.
 
-Careful - not all datasets are CSV. You want CSV files for this exercise.
+Here are some lists of datasets you could choose from:
+* [https://github.com/datasets/](https://github.com/datasets/)
+* [https://github.com/caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+
+Careful - _not all datasets are CSV_. You want CSV files for this exercise.
 
 ### Step: Fork the dataset
 

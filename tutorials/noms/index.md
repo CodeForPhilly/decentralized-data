@@ -26,13 +26,11 @@ After this workshop you will know how to
 
 1. Read the original [Noms Announcement](https://medium.com/@aboodman/noms-init-98b7f0c3566#.ue3vdtf6h) on Medium
 2. [Install Noms](lessons/install-noms)
-3. [Tour the Noms Command Line](https://github.com/attic-labs/noms/blob/master/doc/cli-tour.md)
+3. [Tour the Noms Command Line](lessons/noms-cli-tour)
 4. [Tour the Noms Golang API](https://github.com/attic-labs/noms/blob/master/doc/go-tour.md)
 
 TODO:
-Instructions/Recommendations for installing the binary and putting it on your PATH
-WINDOWS!
-History Visualization Tool
+Using the History Visualization Tool
 
 ## Next Steps
 
