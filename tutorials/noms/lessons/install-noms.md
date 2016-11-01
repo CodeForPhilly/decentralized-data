@@ -51,4 +51,4 @@ These steps roughly follow the [Setup instructions on the Noms README](https://g
 8. Go to your home directory and run `which noms`; you should see the path to the Noms executable in your bin directory.  Then run `noms` and you should get a help message.  This means Noms is installed!
 
 ## Next Steps
-Go back to the [Intro to Noms workshop](../) and proceed to the next step.
+Go back to the [Intro to Noms workshop](../../) and proceed to the next step.
