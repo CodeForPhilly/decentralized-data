@@ -41,11 +41,13 @@ These steps roughly follow the [Setup instructions on the Noms README](https://g
 
 4. Run `pwd` and take note of the response.  This tells you the full path of your homedir bin directory.  For example, mine is `/Users/jadrian/bin`, but yours will be different.
 5. Check whether this directory is in your path.  Do `echo $PATH` and you should see a list of directory paths separated by colons.  Look for your bin directory; for example, I'm looking for `/Users/jadrian/bin`.
-6. If you don't see the homdir `bin` directory in your path, you need to add it by editing your `.bashrc` file.  Add the following line somewhere:
+6. If you don't see the homdir `bin` directory in your path, you need to add it by editing your `.bashrc` file.  Open your `.bashrc` file and add the following line somewhere in the file:
     
     ```
     export PATH=$HOME/bin:$PATH
     ```
+    
+    Then save the file and go back to your command line.
 
 7. Run `env bash` to restart your shell and then `echo $PATH` again.  You should see your homedir bin directory near the beginning of the list now.
 8. Go to your home directory and run `which noms`; you should see the path to the Noms executable in your bin directory.  Then run `noms` and you should get a help message.  This means Noms is installed!
