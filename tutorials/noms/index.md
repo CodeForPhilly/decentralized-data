@@ -19,10 +19,21 @@ After this workshop you will know how to
 * Explain what it means that Noms is Append-only
 * Explain what it means that Noms is Decentralized
 * Compare and contrast Git and Noms
+* Compare and contrast Relational Databases and Noms
+* Compare and contrast CouchDB and Noms
 
 ## Lessons
 
 1. Read the original [Noms Announcement](https://medium.com/@aboodman/noms-init-98b7f0c3566#.ue3vdtf6h) on Medium
-2. Discuss how (tabular) data like CSV is similar to other text files and how it's different
-2. [Tour the Noms Command Line](https://github.com/attic-labs/noms/blob/master/doc/cli-tour.md)
-3. [Tour the Noms Golang API](https://github.com/attic-labs/noms/blob/master/doc/go-tour.md)
+2. [Install Noms](lessons/install-noms)
+3. [Tour the Noms Command Line](https://github.com/attic-labs/noms/blob/master/doc/cli-tour.md)
+4. [Tour the Noms Golang API](https://github.com/attic-labs/noms/blob/master/doc/go-tour.md)
+
+TODO:
+Instructions/Recommendations for installing the binary and putting it on your PATH
+WINDOWS!
+History Visualization Tool
+
+## Next Steps
+
+Now go to the tutorial on [Versioning Data with Git and Noms](../versioning-data)
