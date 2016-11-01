@@ -14,6 +14,7 @@ These Workshops provide a practical introduction to distributed version control,
 3. [**Git Basics**](tutorials/git-basics): Git hands-on & light theory
 4. [**Actually Using Git**](tutorials/actually-using-git): Understanding Pull Requests, Branching and Code Reviews with Git and Github
 5. [**Noms**](tutorials/noms): Intro to Noms --- version control for datasets
+7. [**Versioning Data with Git and Noms**](tutorials/versioning-data) Hands-on experiments with tracking CSV datasets using these two tools
 6. [**Under the Hood of Git and Noms**](tutorials/git-noms-data-models): Look at the deeper theory & data models that make Git and Noms work
 7. [**IPFS**](tutorials/ipfs): Hands-on & theory of IPFS
 8. [**Agile Process**](tutorials/agile-process): Crash course in Agile Development Process / Methodology
