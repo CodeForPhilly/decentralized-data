@@ -26,7 +26,6 @@ After this workshop you will know how to
 ## Lessons
 
 1. [Find an Open Source Dataset on github and fork it](lessons/find-a-dataset)
-2. [Clone the dataset to your local machine](lessons/clone-the-dataset)
 3. [Import the dataset into Noms and publish the dataset](lessons/import-the-dataset-into-noms)
 4. [Make some changes to the dataset and import them](lessons/import-dataset-changes)
 7. [Make a lot of changes to the dataset and import them](lessons/import-lots-of-dataset-changes)
