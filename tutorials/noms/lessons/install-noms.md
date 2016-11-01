@@ -10,10 +10,10 @@ tags:
 After doing this tutorial you will know how to
 
 * Install Noms on a unix-flavored OS
-* Put Noms on your Command line
+* Put Noms on your command line
 
 ## Activities
-These steps roughly follow the [Setup instructions on the Noms README](https://github.com/attic-labs/noms#setup)
+These steps roughly follow the [Setup instructions on the Noms README](https://github.com/attic-labs/noms#setup).
 
 ### Step 1: Download the latest build
 
