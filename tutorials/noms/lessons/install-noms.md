@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Install Noms
-category: git-basics
+category: noms
 tags:
 ---
 
@@ -42,11 +42,11 @@ These steps roughly follow the [Setup instructions on the Noms README](https://g
 4. Run `pwd` and take note of the response.  This tells you the full path of your homedir bin directory.  For example, mine is `/Users/jadrian/bin`, but yours will be different.
 5. Check whether this directory is in your path.  Do `echo $PATH` and you should see a list of directory paths separated by colons.  Look for your bin directory; for example, I'm looking for `/Users/jadrian/bin`.
 6. If you don't see the homdir `bin` directory in your path, you need to add it by editing your `.bashrc` or `.bash_profile` file.  Open either of those files in your text editor and add the following line somewhere:
-    
+
     ```
     export PATH=$HOME/bin:$PATH
     ```
-    
+
     Then save the file and go back to your command line.
 
 7. Run `env bash` to restart your shell and then `echo $PATH` again.  You should see your homedir bin directory near the beginning of the list now.

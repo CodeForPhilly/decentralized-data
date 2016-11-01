@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: Install Noms
-category: git-basics
+category: noms
 tags:
 ---
 
