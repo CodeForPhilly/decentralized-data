@@ -33,10 +33,11 @@ These steps roughly follow the [Setup instructions on the Noms README](https://g
 
 1. Make a "bin" directory in your homedir: `mkdir -p ~/bin`
 2. Move into your new bin directory ( `cd ~/bin` ).
-3. We're going to create "symlinks" from the noms executables that you extracted from the .tar.gz file into this bin directory.  The following code snippet assumes you are using Bash, which you can check by doing `echo $SHELL` on the command line.  Provided that you see `bash` as the response, you're all set to do the following:
+3. We're going to create "symlinks" from the noms executables that you extracted from the .tar.gz file into this bin directory.  The following code snippet assumes you are using Bash, which you can check by doing `echo $SHELL` on the command line.  Provided that you see `bash` as the response, you're all set to do run the following two lines on your command line:
 
     ```
     for f in ~/lib/noms/*; do ln -s $f .; done
+    rm ./noms-*.tar.gz
     ```
 
 4. Run `pwd` and take note of the response.  This tells you the full path of your homedir bin directory.  For example, mine is `/Users/jadrian/bin`, but yours will be different.
