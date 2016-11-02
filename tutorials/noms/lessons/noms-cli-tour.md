@@ -22,11 +22,13 @@ Follow the steps of the [Noms Command Line Tour](https://github.com/attic-labs/n
 ### Some Notes
 
 In the command line tour, under the **noms sync** section, the tour tells you to run:
+
 ```
 > go install github.com/attic-labs/noms/samples/go/csv/...
 ```
 
 Sometimes this command returns a warning like
+
 ```
 warning: "github.com/attic-labs/noms/sample/go/csv/..." matched no packages
 ```
