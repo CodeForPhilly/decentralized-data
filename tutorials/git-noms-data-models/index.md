@@ -14,4 +14,4 @@ After this workshop you will know how to
 
 ## Lessons
 
-1. TODO
+1. [Git Internals Tutorial](lessons/git-internals-tutorial)
