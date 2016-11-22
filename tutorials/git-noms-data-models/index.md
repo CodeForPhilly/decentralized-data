@@ -14,4 +14,5 @@ After this workshop you will know how to
 
 ## Lessons
 
-1. [Git Internals Tutorial](lessons/git-internals-tutorial)
+1. [Preface: Pipes and Hashing](lessons/pipes-and-hashing)
+2. [Git Internals Tutorial](lessons/git-internals-tutorial)
