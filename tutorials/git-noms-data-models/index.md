@@ -37,7 +37,8 @@ In order to understand the steps in this tutorial, you should be familiar with:
 
 ## Lessons
 
-1. [Preface: Pipes and Hashing](lessons/pipes-and-hashing)
+1. [Preface: Stream Redirection and Piping](lessons/redirection-and-piping)
+2. Preface: Hashing
 2. [Git Internals: Hash Objects](lessons/hash-objects)
 3. [Git Internals: Tree Objects](lessons/tree-objects)
 4. [Git Internals: Commit Objects](lessons/commit-objects)

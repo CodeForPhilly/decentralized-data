@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Command-Line Skills - Pipes and Hashing
+title: Command-Line Skills - Stream Redirection and Piping
 category: git-noms-data-models
 tags:
 ---
@@ -15,9 +15,7 @@ After doing this tutorial you will know how to
 
 - Use stream redirection to write files on the command line
 - Use `cat` to read and write files on the command line
-- Compute MD5 and SHA-1 hashes on the command line
-
-You will also know the meaning and characteristics of "hashing".
+- Use pipes to connect different commands together
 
 ## Activities
 
@@ -111,5 +109,18 @@ What if we wanted to find all the `git` commands we'd entered in the past?  We c
 history > history.txt
 grep git history.txt
 ```
+
+Turns out, if you don't give `grep` a filename, it works similarly to `cat`: it reads its input from standard in instead of from a file.  Try it out:
+
+```bash
+grep git
+```
+
+Type in some lines of text
+
+
+
+
+
 
 
