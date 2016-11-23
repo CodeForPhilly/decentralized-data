@@ -5,7 +5,7 @@ title: Decentralized Data Workshops - Home
 
 # Decentralized Data Workshops
 
-These Workshops provide a practical introduction to distributed version control, distributed data systems, their use, and the underlying technologies that make them possible. Our goal is to provide a path for everyday developers to understand enough about distributed systems that they can write an [IPFS](http://ipfs.io) adapter for [noms](https://github.com/attic-labs/noms), as was suggested in [this issue](https://github.com/attic-labs/noms/issues/2123) in the noms issue tracker.
+These workshops provide a practical introduction to distributed version control, distributed data systems, their use, and the underlying technologies that make them possible. Our goal is to provide a path for everyday developers to understand enough about distributed systems that they can write an [IPFS](http://ipfs.io) adapter for [Noms](https://github.com/attic-labs/noms), as was suggested in [this issue](https://github.com/attic-labs/noms/issues/2123) in the Noms issue tracker.
 
 ## The Workshops
 
@@ -15,7 +15,7 @@ These Workshops provide a practical introduction to distributed version control,
 4. [**Actually Using Git**](tutorials/actually-using-git): Understanding Pull Requests, Branching and Code Reviews with Git and Github
 5. [**Noms**](tutorials/noms): Intro to Noms --- version control for datasets
 7. [**Versioning Data with Git and Noms**](tutorials/versioning-data) Hands-on experiments with tracking CSV datasets using these two tools
-6. [**Under the Hood of Git and Noms**](tutorials/git-noms-data-models): Look at the deeper theory & data models that make Git and Noms work
+6. [**Under the Hood of Git**](tutorials/git-data-model): Look at the deeper theory & data models that make Git (and Noms) work
 7. [**IPFS**](tutorials/ipfs): Hands-on & theory of IPFS
 8. [**Agile Process**](tutorials/agile-process): Crash course in Agile Development Process / Methodology
 9. [**Testing Your Code**](tutorials/testing-code): Writing Tests, Running them, and Using Continuous Integration
