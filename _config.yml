@@ -9,7 +9,7 @@ relative_permalinks: false
 title:            Decentralized Data Workshops
 tagline:          'Level up with Distributed Systems'
 description:      'Workshop material on distributed version control and distributed data systems. Created as part of the Dat Jawn project at Code for Philly'
-url:              http://CfABrigadePhiladelphia.github.io/decentralized-data/
+url:              http://CodeForPhilly.github.io/decentralized-data/
 baseurl:          /decentralized-data
 
 author:
@@ -21,4 +21,4 @@ version:          0.0.1
 gems:             [jekyll-paginate, jekyll-gist]
 
 github:
-  repo:           https://github.com/CfABrigadePhiladelphia/decentralized-data
+  repo:           https://github.com/CodeForPhilly/decentralized-data
