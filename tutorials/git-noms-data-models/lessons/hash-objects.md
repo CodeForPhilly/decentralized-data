@@ -49,6 +49,7 @@ Run
 git status
 ```
 You should see output like:
+
 ```bash
 On branch master
 
