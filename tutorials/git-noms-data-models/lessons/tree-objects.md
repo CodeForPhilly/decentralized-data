@@ -15,7 +15,7 @@ After doing this tutorial you will know how to
 
 ### Step 1: Git Internals - Tree Objects
 
-Read the section under the heading 'Commit Objects' on the [Git Internals - git References](https://git-scm.com/book/en/v2/Git-Internals-Git-References#Tree-Objects) page. **Stop at the heading 'Commit Objects'.** We will cover that in the next lesson.
+Read the section under the heading 'Tree Objects' on the [Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects#Tree-Objects) page. **Stop at the heading 'Commit Objects'.** We will cover that in the next lesson.
 
 ### Step 2: Test Your Understanding of Git Objects
 
