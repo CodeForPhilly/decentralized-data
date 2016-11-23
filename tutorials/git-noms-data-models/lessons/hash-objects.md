@@ -41,6 +41,27 @@ Read the introduction to the Git Internals chapter of the Official Git Book:
 
 Read the first section of the page on [Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects). **Stop at the heading 'Tree Objects'.** We will cover that in the next lesson.
 
+### Step 4: Inspect the Hash Objects You've Created
+
+Run
+
+```bash
+git status
+```
+You should see output like:
+
+```bash
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	test.txt
+```
+
+There is one untracked file called 'test.txt'.  It hasn't been staged or committed to git yet. In the next lesson you will learn the internal commands git uses to stage that file.
 
 ## Next Steps
 
