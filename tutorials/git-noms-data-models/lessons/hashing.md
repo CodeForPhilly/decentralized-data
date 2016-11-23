@@ -59,6 +59,8 @@ Many different hash functions have been invented; the `md5` program runs a hash 
 
 > A hash function is **deterministic**: the same input always produces the same output.
 
+Though we'll use MD5 for the rest of this lesson, another prominent hash function is called SHA-1.  Given the same input, SHA-1 generally produces a *different* hash than MD5 does.  But SHA-1 has all the same general features of a hash function that we'll learn about by studying MD5.
+
 
 ### Activity 2: Fixed-Size Output
 
