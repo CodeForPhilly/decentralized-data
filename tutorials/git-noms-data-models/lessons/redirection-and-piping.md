@@ -7,7 +7,7 @@ tags:
 
 ## Prerequisites
 
-Form a pair with another participant, and make sure that at least one of you is running a Mac.  (The instructions on this page are written for the Mac OS X command line; the commands are subtly different on Linux and Cygwin.)
+Form a pair with another participant, and make sure that at least one of you is running Linux or Mac OS X.
 
 ## Goals (Learning Objectives)
 
@@ -80,7 +80,7 @@ Since `cat` copies its input (from stdin) to stdout, we can use output redirecti
 cat > poem.txt
 ```
 
-Type in a couple lines of your favorite poem and then close out the file by sending an end-of-file signal (also known as an "EOF").
+Type in a couple lines of your favorite poem and then close out the file by sending an end-of-file signal (also known as an "EOF") on an empty line.
 
 ```bash
 ls
@@ -126,7 +126,7 @@ Once again, git is relevant
 Pizza is so yummy
 ```
 
-As before, to finish the virtual "file" that you're typing into standard-in, type `^D` (Control-D).
+As before, to finish the virtual "file" that you're typing into standard-in, type `^D` (Control-D) on an empty line.
 
 Now, rather than writing the output of `history` to a file and then using `grep` on that file, what if we just sent `history`'s stdout to `grep`'s stdin?  We do that using the **pipe operator**:
 
@@ -171,10 +171,7 @@ To recap, discuss:
 - What does `less` do if you give it a filename?  What if you don't?
 - What does the `|` operator do on the command line?  How do you use it?
 
+## Next Steps
 
-
-
-
-
-
+Proceed to the [Hashing](../hashing) lesson.
 
