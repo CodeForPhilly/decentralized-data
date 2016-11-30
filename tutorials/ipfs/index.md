@@ -19,6 +19,6 @@ After this workshop you will know how to
 
 These lessons are all part of the [Decentralized Web Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content), which is a work in progress. Most of the lessons in the primer are unfinished, but the ones we're using are ready to go.
 
-1. Lesson 1: [Install and Initialize IPFS](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/install-ipfs/)
-2. Lesson 2: [Files on IPFS](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/)
-3. Lesson 3: [Turn a File into a Merkle Tree](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/ipfs-dag/lessons/files-as-dags.html)
+1. Tutorial 1: [Install and Initialize IPFS](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/install-ipfs/) — do lessons 1 & 2.
+2. Tutorial 2: [Files on IPFS](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/) — do lessons 1 & 2, but skip lesson 3 on "pinning"
+3. Tutorial 3: do only the lesson "[Turn a File into a Merkle Tree](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/ipfs-dag/lessons/files-as-dags.html)"
